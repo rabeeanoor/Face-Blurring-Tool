@@ -16,7 +16,7 @@ This tool allows users to automatically detect faces in an image and apply a blu
 ## Installation:
 1. Clone the repository to your local machine:
 ```
-git clone [URL of the GitHub repo]
+git clone [https://github.com/rabeeanoor/Face-Blurring-Tool.git]
 ```
 
 2. Navigate to the cloned directory and install the required packages:
